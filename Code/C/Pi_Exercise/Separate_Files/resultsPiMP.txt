@@ -1,0 +1,4 @@
+PI with 1 core: 0.008073 ms
+PI with 2 cores: 0.004208 ms
+PI with 2 cores (no reduction): 0.006449 ms
+PI With 2 cores (no math.h): 0.001610 ms
